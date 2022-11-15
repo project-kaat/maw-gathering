@@ -1,0 +1,5 @@
+#!/bin/sh
+
+export PRIMARY_INTERFACE="wlan0"
+export SECONDARY_INTERFACE="wlan1"
+export GPSD_SERVER_ADDRESS="192.168.42.129"
